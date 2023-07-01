@@ -23,4 +23,4 @@ These classes can be placed in a package like com.example.buyermodule.service.
 BuyerController: Controller class that handles HTTP requests related to buyers.
 This class can be placed in a package like com.example.buyermodule.controller
 
-Additionally, you may need to configure additional dependencies and settings in your build configuration files (pom.xml for Maven ).
+Additionally, I need to configure additional dependencies and settings in your build configuration files (pom.xml for Maven ).
